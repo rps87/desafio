@@ -1,0 +1,23 @@
+
+body{
+    background: #ccc;
+}
+
+table{
+    background: #fff;
+}
+
+.etiq{
+    font-size:0.7em;
+    box-sizing: padding-box;
+}
+
+.fundo{
+    background-color: #fff;
+}
+
+.borda{
+    border-width: 6px !important;
+    border-style: dashed !important;
+    border-color: #0275d8 !important;
+}

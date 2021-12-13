@@ -1,0 +1,13 @@
+
+body{
+    background: #ccc;
+}
+
+table{
+    background: #fff;
+}
+
+.linha:hover{
+    cursor: pointer;
+    background-color: #eee;
+}
